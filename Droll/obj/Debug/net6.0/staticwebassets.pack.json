@@ -1,0 +1,189 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Droll\\Droll\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Droll\\Droll\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Droll\\Droll\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Droll\\Droll\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Droll\\Droll\\wwwroot\\css\\style.scss",
+      "PackagePath": "staticwebassets\\css\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Droll\\Droll\\wwwroot\\images\\animal-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\animal-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Droll\\Droll\\wwwroot\\images\\bird.jpg",
+      "PackagePath": "staticwebassets\\images\\bird.jpg"
+    },
+    {
+      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Droll\\Droll\\wwwroot\\images\\call.png",
+      "PackagePath": "staticwebassets\\images\\call.png"
+    },
+    {
+      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Droll\\Droll\\wwwroot\\images\\cat.jpg",
+      "PackagePath": "staticwebassets\\images\\cat.jpg"
+    },
+    {
+      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Droll\\Droll\\wwwroot\\images\\client-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\client-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Droll\\Droll\\wwwroot\\images\\client.png",
+      "PackagePath": "staticwebassets\\images\\client.png"
+    },
+    {
+      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Droll\\Droll\\wwwroot\\images\\dog.jpg",
+      "PackagePath": "staticwebassets\\images\\dog.jpg"
+    },
+    {
+      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Droll\\Droll\\wwwroot\\images\\dog.png",
+      "PackagePath": "staticwebassets\\images\\dog.png"
+    },
+    {
+      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Droll\\Droll\\wwwroot\\images\\f1.png",
+      "PackagePath": "staticwebassets\\images\\f1.png"
+    },
+    {
+      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Droll\\Droll\\wwwroot\\images\\f2.png",
+      "PackagePath": "staticwebassets\\images\\f2.png"
+    },
+    {
+      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Droll\\Droll\\wwwroot\\images\\f3.png",
+      "PackagePath": "staticwebassets\\images\\f3.png"
+    },
+    {
+      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Droll\\Droll\\wwwroot\\images\\fb.png",
+      "PackagePath": "staticwebassets\\images\\fb.png"
+    },
+    {
+      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Droll\\Droll\\wwwroot\\images\\fish.jpg",
+      "PackagePath": "staticwebassets\\images\\fish.jpg"
+    },
+    {
+      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Droll\\Droll\\wwwroot\\images\\heading-img.png",
+      "PackagePath": "staticwebassets\\images\\heading-img.png"
+    },
+    {
+      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Droll\\Droll\\wwwroot\\images\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\hero-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Droll\\Droll\\wwwroot\\images\\hero-bg2.png",
+      "PackagePath": "staticwebassets\\images\\hero-bg2.png"
+    },
+    {
+      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Droll\\Droll\\wwwroot\\images\\instagram.png",
+      "PackagePath": "staticwebassets\\images\\instagram.png"
+    },
+    {
+      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Droll\\Droll\\wwwroot\\images\\link-arrow.png",
+      "PackagePath": "staticwebassets\\images\\link-arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Droll\\Droll\\wwwroot\\images\\linkedin.png",
+      "PackagePath": "staticwebassets\\images\\linkedin.png"
+    },
+    {
+      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Droll\\Droll\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Droll\\Droll\\wwwroot\\images\\mail.png",
+      "PackagePath": "staticwebassets\\images\\mail.png"
+    },
+    {
+      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Droll\\Droll\\wwwroot\\images\\next-angle.png",
+      "PackagePath": "staticwebassets\\images\\next-angle.png"
+    },
+    {
+      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Droll\\Droll\\wwwroot\\images\\next.png",
+      "PackagePath": "staticwebassets\\images\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Droll\\Droll\\wwwroot\\images\\omega.png",
+      "PackagePath": "staticwebassets\\images\\omega.png"
+    },
+    {
+      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Droll\\Droll\\wwwroot\\images\\pet-bg.png",
+      "PackagePath": "staticwebassets\\images\\pet-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Droll\\Droll\\wwwroot\\images\\pet-img.png",
+      "PackagePath": "staticwebassets\\images\\pet-img.png"
+    },
+    {
+      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Droll\\Droll\\wwwroot\\images\\pet1.png",
+      "PackagePath": "staticwebassets\\images\\pet1.png"
+    },
+    {
+      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Droll\\Droll\\wwwroot\\images\\pet2.png",
+      "PackagePath": "staticwebassets\\images\\pet2.png"
+    },
+    {
+      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Droll\\Droll\\wwwroot\\images\\prev-angle.png",
+      "PackagePath": "staticwebassets\\images\\prev-angle.png"
+    },
+    {
+      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Droll\\Droll\\wwwroot\\images\\prev.png",
+      "PackagePath": "staticwebassets\\images\\prev.png"
+    },
+    {
+      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Droll\\Droll\\wwwroot\\images\\quote.png",
+      "PackagePath": "staticwebassets\\images\\quote.png"
+    },
+    {
+      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Droll\\Droll\\wwwroot\\images\\search-icon.png",
+      "PackagePath": "staticwebassets\\images\\search-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Droll\\Droll\\wwwroot\\images\\shield.png",
+      "PackagePath": "staticwebassets\\images\\shield.png"
+    },
+    {
+      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Droll\\Droll\\wwwroot\\images\\slider-img.png",
+      "PackagePath": "staticwebassets\\images\\slider-img.png"
+    },
+    {
+      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Droll\\Droll\\wwwroot\\images\\twitter.png",
+      "PackagePath": "staticwebassets\\images\\twitter.png"
+    },
+    {
+      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Droll\\Droll\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\novra\\OneDrive\\Desktop\\Droll\\Droll\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Droll.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Droll.props",
+      "PackagePath": "build\\Droll.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Droll.props",
+      "PackagePath": "buildMultiTargeting\\Droll.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Droll.props",
+      "PackagePath": "buildTransitive\\Droll.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
